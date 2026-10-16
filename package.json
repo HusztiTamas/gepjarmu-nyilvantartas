@@ -1,0 +1,18 @@
+{
+  "name": "huszti_tamas",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.3.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.23",
+    "lodash": "^4.18.1"
+  }
+}
